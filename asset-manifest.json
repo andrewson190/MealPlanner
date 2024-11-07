@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MealPlanner/static/css/main.222e4523.css",
-    "main.js": "/MealPlanner/static/js/main.8d301d9c.js",
+    "main.js": "/MealPlanner/static/js/main.72a4faa9.js",
     "static/media/filling.svg": "/MealPlanner/static/media/filling.2ae2f24d1b4e00e583de9df75e97c8e9.svg",
     "static/media/lowcarb.svg": "/MealPlanner/static/media/lowcarb.b62c3b87cf6db3a28f87236e1dcacaae.svg",
     "static/media/healthy.svg": "/MealPlanner/static/media/healthy.4af36ee2d0a9a9f47009c2089a9246b9.svg",
@@ -10,10 +10,10 @@
     "static/media/loading.svg": "/MealPlanner/static/media/loading.5e2f9b82e81b7958ea297c1df0813041.svg",
     "static/media/arrow.svg": "/MealPlanner/static/media/arrow.351f90d7dc99a5f8d36164856d24fe74.svg",
     "main.222e4523.css.map": "/MealPlanner/static/css/main.222e4523.css.map",
-    "main.8d301d9c.js.map": "/MealPlanner/static/js/main.8d301d9c.js.map"
+    "main.72a4faa9.js.map": "/MealPlanner/static/js/main.72a4faa9.js.map"
   },
   "entrypoints": [
     "static/css/main.222e4523.css",
-    "static/js/main.8d301d9c.js"
+    "static/js/main.72a4faa9.js"
   ]
 }
